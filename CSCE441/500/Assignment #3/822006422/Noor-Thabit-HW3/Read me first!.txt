@@ -1,0 +1,4 @@
+Hi, So I'm so fraustrated because i think the cliping function is working perfectly, it just update display with the result.
+I tried everything, I believe I'm just missing one of those bloody gl functions that update of clear the buffer or something.
+I hope that it won't affect my grade that much, because it is about %98 done, it just need one thing which I don't know. 
+Please have a look at my code, maybe you can figured it out. Thanks !!
