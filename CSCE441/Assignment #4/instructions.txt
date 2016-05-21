@@ -1,0 +1,15 @@
+there arrows control the camera view.
+
+
+a : move the worm up
+s : move the worm down
+
+a: turn the head left
+d: turn the head right
+
+
+-, = : zoom in, zoom out.
+
+m: toggle view mode, ortho and perspective.
+
+z, Z: control the dimention of the worm.

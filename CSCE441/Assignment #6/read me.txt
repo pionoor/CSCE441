@@ -1,0 +1,9 @@
+After loading the actor and the motion, you pick the desired frame and hit the select button.
+Use the slider to traverse between frames.
+You have to choose at least 4 frames in order for the program to function propely.
+After choosing the frames, choose inerpolate.
+Then you may use the slider or the play button to display the result.
+The "load Original button" doesn't fuction propley, I couldn't figuerd the bug.
+
+Note: I have been working on this assignment with my friend Caleb Basse. So there is some similarities between our codes.
+
